@@ -1,1 +1,1 @@
-# ALU-
+# ALU- Arithmetic and logical unit is a core component of the CPU that performs arithmetic operations(addition,subtraction) and logical operations(AND,OR,NOT).it takes input operands ,executes the opperation based on control signals  and outputs the result.
